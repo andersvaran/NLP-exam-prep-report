@@ -1,6 +1,7 @@
 # Predicting gender using linguistic features and keystroke dynamics
 
-📖 About
+## 📖 About
+
 This repository contains the data and code needed to run the analysis in the following paper [insert super cool paper]. 
 
 The data was obtained from the KLiCKe corpus, which contains ~5,000 argumentative essays written in English by adult writers from the US. For more information, see the following GitHub repository: https://github.com/terryyutian/KLiCKe-Corpus
