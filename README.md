@@ -9,6 +9,11 @@ The data was obtained from the KLiCKe corpus, which contains ~5,000 argumentativ
 
 The following repository is structured as such:
 
+| Folder/File   | Description   |
+| ------------- | ------------- |
+| ```{python] data/```  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 ## 💻 Technical Requirements
 
