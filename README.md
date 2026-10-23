@@ -19,16 +19,23 @@ The following repository is structured as such:
 
 ## 💻 Technical Requirements
 
+The analysis was run on UCloud... (add more stuff here)
+
 ## 🛠️ Setup
+Prior to running the code, run the following code below to (1) create a virtual environment (venv) and (2) download the required packages.
+
+```bash setup.sh```
 
 ## 🚀 Usage
+
+To run any script in the src folder, you can type specify the script's path in the terminal (with the .venv active):
 
 ```{python}
 # activate env
 source .venv/bin/activate
 
 # run script
-python src/get_paths.py
+python src/main.py
 
 # quit env 
 deactivate
@@ -36,4 +43,4 @@ deactivate
 
 ## 🌟 Acknowledgements
 
-## 💬 Contact
+Thanks to Mina for making a very nice template for this! :D
