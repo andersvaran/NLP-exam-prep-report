@@ -11,8 +11,10 @@ The following repository is structured as such:
 
 | Folder/File   | Description   |
 | ------------- | ------------- |
-| ```{python] data/```  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ```data/```   | contains essays and detailed keystroke logs  |
+| ```plots/```  | contains figures from paper  |
+| ```results/```  | contains results from analysis (F1, precision, recall, etc.)  |
+| ```src/```  | python scripts related to the project  |
 
 
 ## 💻 Technical Requirements
