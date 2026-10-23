@@ -25,7 +25,9 @@ The analysis was run on UCloud... (add more stuff here)
 ## 🛠️ Setup
 Prior to running the code, run the following code below to (1) create a virtual environment (venv) and (2) download the required packages.
 
-```bash setup.sh```
+```{python}
+bash setup.sh
+```
 
 ## 🚀 Usage
 
